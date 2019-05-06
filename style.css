@@ -22,7 +22,7 @@ h2 {
   margin: -20px 0 10px 0;
 }
 
-#wrap {width: 1000px; margin: auto;}
+#container {width: 1000px; margin: auto;}
 #header {text-align: center;}
 #header p {font-family: 'Pacifico', cursive;  font-size: 44px; margin-top: -50px;}
 
